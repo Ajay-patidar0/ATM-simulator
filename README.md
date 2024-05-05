@@ -7,9 +7,9 @@ The ATM Simulator is a simple console-based application written in C++ that simu
 
 •	Create multiple accounts with account number, name, initial balance, and PIN.<br>
 •	Deposit funds into an existing account.<br>
-•	Withdraw funds from an existing account.
-•	Check the balance of an existing account.
-•	Basic error handling for incorrect PINs and insufficient balances.
+•	Withdraw funds from an existing account.<br>
+•	Check the balance of an existing account.<br>
+•	Basic error handling for incorrect PINs and insufficient balances.<br>
 
 ## **Operations:**
 
