@@ -13,7 +13,7 @@ The ATM Simulator is a simple console-based application written in C++ that simu
 
 ## **Operations:**
 
-•	Deposit: Add funds to an existing account.
+•	Deposit: Add funds to an existing account. <be>
 •	Withdraw: Withdraw funds from an existing account.
 •	Check Balance: View the balance of an existing account.
 •	Exit: Terminate the program.
